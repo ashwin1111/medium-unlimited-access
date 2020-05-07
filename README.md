@@ -1,16 +1,17 @@
-# [Medium Unlimited Access](#)
+# [Medium Unlimited Access](https://addons.mozilla.org/en-US/firefox/addon/medium-unlimited-access/)
 
 Extension to allow users to read as many blogs as possible without signing up for a premium account :)
 
-## Steps to load the extension
+[Find the published add on from Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/medium-unlimited-access/)
 
-<li>Clone the repo
+## Steps to import the extension in Google Chrome
+
+<li>Clone the repo / download v1.zip
 
 <li>Unpack v1.zip
 
-<li>Navigate to your browser's extension page
-
-<li>chrome://extension (if you are using google chrome browser)
+<li>Navigate to your browser's extension page 
+<b>(chrome://extension)</b>
 
 <li>Click on load unpacked
 
